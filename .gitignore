@@ -13,3 +13,6 @@ venv.bak/
 
 # Checkpoints
 ckpt/
+
+lib
+lib64
