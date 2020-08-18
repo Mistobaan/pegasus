@@ -42,8 +42,7 @@ setuptools.setup(
         'sentencepiece',
         'tensorflow-text==1.15.1',
         'tfds-nightly',
-        'tensor2tensor==1.15.0',
-        'tensorflow==1.15.3',
+    #    'tensor2tensor==1.15.0',
     ],
     extras_require={
         'tensorflow': ['tensorflow==1.15.3'],
